@@ -4,5 +4,5 @@ This is a simple HTML CV webpage built according to the provided design instruct
 
 # How to Run the Project
 
-1. Clone this repository or download the ZIP file: '''bash git clone https://github.com/thatdammy/my-cv-project/
+1. Clone this repository or download the ZIP file: https://github.com/thatdammy.github.io/my-cv-project/
 This project was provided by roadmap.sh with the following URL: https://roadmap.sh/projects/single-page-cv
